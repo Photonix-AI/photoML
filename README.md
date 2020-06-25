@@ -9,6 +9,7 @@ A Machine Learning library that includes some of the ML and Deep Learning Algori
 ## 1. Models in ML and Deep Learning:
 
 a. Supervised Learning:
+
     - Regression:
         i.   Linear Regression
         ii.  Multiple Linear Regression
@@ -35,6 +36,7 @@ a. Supervised Learning:
         vii. Boltzmann Machines
 
 b. Unsupervised Learning:
+
     - Clustering
         i.   K Means
     
@@ -60,3 +62,4 @@ b. Unsupervised Learning:
 1. 2D plots
 2. 2D subplots
 3. 2D Contours
+
